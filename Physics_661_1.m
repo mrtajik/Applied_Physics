@@ -1,6 +1,5 @@
-% Mubinjon Satymov
 % Physics 661
-% Assignment 1
+% 1
 
 % Vector Algebra
 % Magnitude of an n-Dimensional Vector
