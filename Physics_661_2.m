@@ -1,7 +1,3 @@
-% Mubinjon Satymov
-% Physics 661
-% Assignment 2
-
 % For any N
 clear;
 clc;
