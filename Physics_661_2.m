@@ -34,7 +34,7 @@ for i=1:N
     myProbs(1,12) = myProbs(1,12) + 1;
   end
 end
-p = 1/6;
+p = 1/36;
 diceProb = N*p*[1 2 3 4 5 6 5 4 3 2 1];
 b = 2:1:12;
 
